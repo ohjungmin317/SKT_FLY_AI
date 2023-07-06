@@ -12,7 +12,6 @@
 - RNN ( Recurrent Neural Network )
 - Tensorflow
 
-
 # 📗 도서 목록
 
 pdf 강의 자료 및 교제
