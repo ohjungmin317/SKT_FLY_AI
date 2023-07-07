@@ -19,6 +19,7 @@ pdf 강의 자료 및 교제
 현장 강의
 
 ## ⌨️ 실습 예제
-Kaggle 데이터 활용
+- Kaggle 데이터 활용
+- dataset 파일 (.csv 활용)
 
 
