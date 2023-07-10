@@ -11,6 +11,7 @@
 - CNN ( Convolution Neural Network )
 - RNN ( Recurrent Neural Network )
 - Tensorflow
+### 3주차
 
 ## 📗 도서 목록
 pdf 강의 자료 및 교제
