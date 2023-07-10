@@ -1,17 +1,17 @@
 # 🐼 SKT_FLY_AI_ML
 ## 📝 기초
-### 1주차 
+### 1주차!
 - pandas
 - Numpy
 - Matplotlib
 - Seaborn
 - ML 실습
-### 2주차
+### 2주차!
 - ANN ( Artificial Neural Network )
 - CNN ( Convolution Neural Network )
 - RNN ( Recurrent Neural Network )
 - Tensorflow
-### 3주차
+
 
 ## 📗 도서 목록
 pdf 강의 자료 및 교제
