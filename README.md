@@ -1,5 +1,4 @@
 # 🐼 SKT_FLY_AI_ML
-## 📝 기초
 ### 1주차!
 - pandas
 - Numpy
